@@ -1,4 +1,7 @@
 # All pulls are accepted here!
+
+https://pvcoders.github.io/all-pulls-accepted/
+ 
 chaos
 
 Tell your friends that don't know how to code to update the readme
@@ -12,3 +15,4 @@ Rule 3: Keep it PG
 Rule 4: Any coding languages are allowed. Except Scratch. Wait since when could you put Scratch on GitHub
 
 That's it
+
